@@ -78,15 +78,13 @@ The dataset contains customer purchase information including:
 
 ## Repository Structure
 
-data/
-Sample dataset
-
-docs/
-Assessment report
-
-sql/
-SQL validation queries
-
+```text
+.
+├── README.md
+├── data/
+├── docs/
+└── sql/
+```
 
 ---
 
@@ -95,10 +93,15 @@ SQL validation queries
 - Data Quality Assessment
 - Data Validation
 - SQL
-- Python
 - Data Cleaning
 - ETL Best Practices
 - Documentation
+
+---
+
+## Key Takeaways
+
+This project demonstrates the application of the six dimensions of data quality to evaluate a customer sales dataset. It highlights how identifying and addressing data quality issues improves data reliability and supports trustworthy analytics, reporting, and business decision-making. The project also reinforces the importance of implementing validation rules, standardisation, and data quality checks as part of modern data engineering and ETL workflows.
 
 ---
 

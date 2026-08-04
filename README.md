@@ -77,7 +77,7 @@ The dataset contains customer purchase information including:
 ---
 
 ```text
-data-quality-assessment/
+Data_Quality_Assessment/
 ├── README.md
 ├── data/
 │   └── customer_sales_dataset.csv

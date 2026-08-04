@@ -1,0 +1,11 @@
+Customer ID	Name	Email Address	Product Purchased	Sales Date	Amount (USD)	Temperature (°C)	Sensor Reading (units)	Shipping Address	Order Status	Payment Method	Quantity
+1	John Doe	johndoe@example.com	Laptop	2024-01-25	1200	35	150	123 Elm St, NY	Shipped	Credit Card	1
+2	Jane Smith	janesmith@@example.com	Tablet	2023-12-15	500	30	200	456 Oak St, NY	Processing	Debit Card	2
+3	Mike Johnson	mike.johnson123@example.com	Smartphone	2024-02-10	-250	28	300	789 Pine St, NY	Delivered	Credit Card	1
+4	Sarah Williams	sarahwilliams.com	Headphones	2022-07-12	75	27	250	NULL	Shipped	PayPal	3
+5	Chris Brown	chrisbrown.example.com	Smartwatch	2024-01-30	250	32	100	101 Maple St, NY	Canceled	Credit Card	1
+6	Emily Davis	emily.davis@example.com	Laptop	2024-03-01	1200	35	150	123 Elm St, NY	Shipped	Credit Card	1
+7	Kevin Lee	kevin.leeexample.com	Tablet	2023-12-25	450	29	NULL	654 Birch St, NY	Pending	Debit Card	1
+8	Anna Taylor	annataylorexample.com	Headphones	2024-02-05	75	32	500	321 Cedar St, NY	Shipped	PayPal	2
+9	Mark Wilson	markwilson@example.com	Smartwatch	2024-01-25	300	NULL	150	987 Pine St, NY	Delivered	Credit Card	1
+10	Alice Green	alice.green@example.com	Smartphone	2024-03-01	550	30	200	654 Oak St, NY	Shipped	Credit Card	1

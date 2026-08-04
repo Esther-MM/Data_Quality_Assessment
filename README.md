@@ -82,7 +82,7 @@ The dataset contains customer purchase information including:
 ├── data/
 │   └── customer_sales_dataset.csv
 ├── docs/
-│   └── Data_Quality_Assessment_Report.md
+│   └── data_quality_assessment_report.md
 └── sql/
     ├── duplicate_detection.sql
     ├── invalid_email.sql

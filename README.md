@@ -1,2 +1,109 @@
-# Data_Quality_Assessment
-Data quality assessment of a customer sales dataset using the six dimensions of data quality
+# Data Quality Assessment
+
+## Project Overview
+
+This project evaluates a customer sales dataset sample using the six dimensions of data quality commonly applied in Data Engineering:
+
+- Accuracy
+- Consistency
+- Timeliness
+- Validity
+- Completeness
+- Uniqueness
+
+The objective is to identify data quality issues and recommend improvements that would improve downstream analytics and reporting.
+
+---
+
+## Dataset
+
+The dataset contains customer purchase information including:
+
+- Customer ID
+- Name
+- Email
+- Product Purchased
+- Sales Date
+- Sales Amount
+- Temperature
+- Sensor Reading
+- Shipping Address
+- Order Status
+- Payment Method
+- Quantity
+
+---
+
+## Data Quality Issues Found
+
+✔ Invalid email addresses
+
+✔ Missing shipping address
+
+✔ Missing sensor readings
+
+✔ Missing temperature values
+
+✔ Negative sales amount
+
+✔ Potential duplicate records
+
+✔ Outdated sales record
+
+---
+
+## Data Quality Dimensions Evaluated
+
+| Dimension | Status |
+|-----------|---------|
+| Accuracy | Reviewed |
+| Consistency | Reviewed |
+| Timeliness | Reviewed |
+| Validity | Reviewed |
+| Completeness | Reviewed |
+| Uniqueness | Reviewed |
+
+---
+
+## Recommendations
+
+- Standardize email formats
+- Validate numeric ranges
+- Detect duplicate transactions
+- Enforce mandatory fields
+- Automate validation in ETL pipelines
+- Apply business rules before loading data
+
+---
+
+## Repository Structure
+
+data/
+Sample dataset
+
+docs/
+Assessment report
+
+sql/
+SQL validation queries
+
+
+---
+
+## Skills Demonstrated
+
+- Data Quality Assessment
+- Data Validation
+- SQL
+- Python
+- Data Cleaning
+- ETL Best Practices
+- Documentation
+
+---
+
+## Author
+
+**Esther Mamtoshu**
+
+Data Engineering Portfolio

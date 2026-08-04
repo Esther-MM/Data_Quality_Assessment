@@ -76,14 +76,17 @@ The dataset contains customer purchase information including:
 
 ---
 
-## Repository Structure
-
 ```text
 .
 ├── README.md
 ├── data/
+│   └── customer_sales_dataset.csv
 ├── docs/
+│   └── Data_Quality_Assessment_Report.md
 └── sql/
+    ├── duplicate_detection.sql
+    ├── invalid_email.sql
+    └── missing_values.sql
 ```
 
 ---
@@ -109,4 +112,4 @@ This project demonstrates the application of the six dimensions of data quality 
 
 **Esther Mamtoshu**
 
-Data Engineering Portfolio
+Data Engineer.

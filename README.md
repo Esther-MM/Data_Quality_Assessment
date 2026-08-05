@@ -75,6 +75,7 @@ The dataset contains customer purchase information including:
 - Apply business rules before loading data
 
 ---
+## Repository Structure
 
 ```text
 Data_Quality_Assessment/
@@ -88,19 +89,6 @@ Data_Quality_Assessment/
     ├── invalid_email.sql
     └── missing_values.sql
 ```
-
----
-
-## Skills Demonstrated
-
-- Data Quality Assessment
-- Data Validation
-- SQL
-- Data Cleaning
-- ETL Best Practices
-- Documentation
-
----
 
 ## Key Takeaways
 
